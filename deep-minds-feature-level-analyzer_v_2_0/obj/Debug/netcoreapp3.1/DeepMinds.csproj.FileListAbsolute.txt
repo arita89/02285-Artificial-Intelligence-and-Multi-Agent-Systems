@@ -1,0 +1,26 @@
+C:\Users\arian\OneDrive\Documents\2semestre\02285- AI project\deep-minds-feature-level-analyzer_v_2_0\bin\Debug\netcoreapp3.1\DeepMinds.exe
+C:\Users\arian\OneDrive\Documents\2semestre\02285- AI project\deep-minds-feature-level-analyzer_v_2_0\bin\Debug\netcoreapp3.1\DeepMinds.deps.json
+C:\Users\arian\OneDrive\Documents\2semestre\02285- AI project\deep-minds-feature-level-analyzer_v_2_0\bin\Debug\netcoreapp3.1\DeepMinds.runtimeconfig.json
+C:\Users\arian\OneDrive\Documents\2semestre\02285- AI project\deep-minds-feature-level-analyzer_v_2_0\bin\Debug\netcoreapp3.1\DeepMinds.runtimeconfig.dev.json
+C:\Users\arian\OneDrive\Documents\2semestre\02285- AI project\deep-minds-feature-level-analyzer_v_2_0\bin\Debug\netcoreapp3.1\DeepMinds.dll
+C:\Users\arian\OneDrive\Documents\2semestre\02285- AI project\deep-minds-feature-level-analyzer_v_2_0\bin\Debug\netcoreapp3.1\DeepMinds.pdb
+C:\Users\arian\OneDrive\Documents\2semestre\02285- AI project\deep-minds-feature-level-analyzer_v_2_0\obj\Debug\netcoreapp3.1\DeepMinds.csprojAssemblyReference.cache
+C:\Users\arian\OneDrive\Documents\2semestre\02285- AI project\deep-minds-feature-level-analyzer_v_2_0\obj\Debug\netcoreapp3.1\DeepMinds.csproj.CoreCompileInputs.cache
+C:\Users\arian\OneDrive\Documents\2semestre\02285- AI project\deep-minds-feature-level-analyzer_v_2_0\obj\Debug\netcoreapp3.1\DeepMinds.AssemblyInfoInputs.cache
+C:\Users\arian\OneDrive\Documents\2semestre\02285- AI project\deep-minds-feature-level-analyzer_v_2_0\obj\Debug\netcoreapp3.1\DeepMinds.AssemblyInfo.cs
+C:\Users\arian\OneDrive\Documents\2semestre\02285- AI project\deep-minds-feature-level-analyzer_v_2_0\obj\Debug\netcoreapp3.1\DeepMinds.dll
+C:\Users\arian\OneDrive\Documents\2semestre\02285- AI project\deep-minds-feature-level-analyzer_v_2_0\obj\Debug\netcoreapp3.1\DeepMinds.pdb
+C:\Users\arian\OneDrive\Documents\2semestre\02285- AI project\deep-minds-feature-level-analyzer_v_2_0\obj\Debug\netcoreapp3.1\DeepMinds.genruntimeconfig.cache
+C:\Users\arita\Documents\private\Data Engineering\2semestre\02285- AI project\deep-minds-feature-level-analyzer_v_2_0\obj\Debug\netcoreapp3.1\DeepMinds.csprojAssemblyReference.cache
+C:\Users\arita\Documents\private\Data Engineering\2semestre\02285- AI project\deep-minds-feature-level-analyzer_v_2_0\obj\Debug\netcoreapp3.1\DeepMinds.csproj.CoreCompileInputs.cache
+C:\Users\arita\Documents\private\Data Engineering\2semestre\02285- AI project\deep-minds-feature-level-analyzer_v_2_0\obj\Debug\netcoreapp3.1\DeepMinds.AssemblyInfoInputs.cache
+C:\Users\arita\Documents\private\Data Engineering\2semestre\02285- AI project\deep-minds-feature-level-analyzer_v_2_0\obj\Debug\netcoreapp3.1\DeepMinds.AssemblyInfo.cs
+C:\Users\arita\Documents\private\Data Engineering\2semestre\02285- AI project\deep-minds-feature-level-analyzer_v_2_0\obj\Debug\netcoreapp3.1\DeepMinds.dll
+C:\Users\arita\Documents\private\Data Engineering\2semestre\02285- AI project\deep-minds-feature-level-analyzer_v_2_0\obj\Debug\netcoreapp3.1\DeepMinds.pdb
+C:\Users\arita\Documents\private\Data Engineering\2semestre\02285- AI project\deep-minds-feature-level-analyzer_v_2_0\bin\Debug\netcoreapp3.1\DeepMinds.exe
+C:\Users\arita\Documents\private\Data Engineering\2semestre\02285- AI project\deep-minds-feature-level-analyzer_v_2_0\bin\Debug\netcoreapp3.1\DeepMinds.deps.json
+C:\Users\arita\Documents\private\Data Engineering\2semestre\02285- AI project\deep-minds-feature-level-analyzer_v_2_0\bin\Debug\netcoreapp3.1\DeepMinds.runtimeconfig.json
+C:\Users\arita\Documents\private\Data Engineering\2semestre\02285- AI project\deep-minds-feature-level-analyzer_v_2_0\bin\Debug\netcoreapp3.1\DeepMinds.runtimeconfig.dev.json
+C:\Users\arita\Documents\private\Data Engineering\2semestre\02285- AI project\deep-minds-feature-level-analyzer_v_2_0\bin\Debug\netcoreapp3.1\DeepMinds.dll
+C:\Users\arita\Documents\private\Data Engineering\2semestre\02285- AI project\deep-minds-feature-level-analyzer_v_2_0\bin\Debug\netcoreapp3.1\DeepMinds.pdb
+C:\Users\arita\Documents\private\Data Engineering\2semestre\02285- AI project\deep-minds-feature-level-analyzer_v_2_0\obj\Debug\netcoreapp3.1\DeepMinds.genruntimeconfig.cache
