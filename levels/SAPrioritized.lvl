@@ -1,0 +1,25 @@
+#domain
+hospital
+#levelname
+SAPrioritized
+#colors
+blue: 0, A, B, C, D
+#initial
++++++++++
++   0   +
++ ++ ++ +
++A++ ++ +
++B++ ++ +
++C++ ++ +
++D++ ++ +
++++++++++
+#goal
++++++++++
++       +
++ ++ ++ +
++ ++ ++A+
++ ++ ++B+
++ ++ ++D+
++ ++ ++C+
++++++++++
+#end

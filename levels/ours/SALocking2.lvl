@@ -1,0 +1,29 @@
+#domain
+hospital
+#levelname
+SALocking2
+#colors
+blue: 0, A, B, C, D, E, F, G
+#initial
++++++++++++
++    0    +
++         +
++ A B D F +
++         +
+++++   ++++
+   +   +
+   +   +
+   +CGE+
+   +++++
+#goal
++++++++++++
++         +
++         +
++         +
++         +
+++++ G ++++
+   +CFE+
+   +ADB+
+   +   +
+   +++++
+#end
